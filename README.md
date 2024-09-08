@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a Next.js version of my portfolio.
 - 🌱 I’m currently learning .NET/C#, ASP.NET, and Kubernetes.
-- 🎨 I work on frontend projects too, but I’ll be honest—**I’m not a designer**! Still, I always do my best to create clean and functional user interfaces.
+- 🎨 I work on frontend projects too, but I’ll be honest—**I’m not a designer**! Still, I always do my best to create clean user interfaces.
 
 
 ### A list of links that showcase some of my skills 
