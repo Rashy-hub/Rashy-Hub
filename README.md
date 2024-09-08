@@ -1,5 +1,5 @@
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=600&color=4E5C97&vCenter=true&width=450&height=80&lines=Hi+there!%F0%9F%91%8B+;I'm+Rachid+Yagoubi+!%F0%9F%91%8A;I'm+a+web+Developer%F0%9F%9A%80!)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=600&color=4E5C97&vCenter=true&width=450&height=80&lines=Hi+there!%F0%9F%91%8B+;I'm+Rachid+Yagoubi+!%F0%9F%91%8A;I'm+a+web+Developer%F0%9F%9A%80!)](https://git.io/typing-svg)
 
 
 - 🔭 I’m currently working on a Next.js version of my portfolio.
