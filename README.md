@@ -1,7 +1,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge" align="right"/>
+<div align="center">  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=600&color=4E5C97&vCenter=true&width=450&height=80&lines=Hi+there!%F0%9F%91%8B+;I'm+Rachid+Yagoubi+!%F0%9F%91%8A;I'm+a+web+Developer%F0%9F%9A%80!)" align="center"/></div>
 
 <h2 align="center" style="max-width: 1200px; margin:auto; font-size:2rem ; font-family:'Helvetica Neue';font-weight:bolder;color:#32a852" > About me </h2>
-<div align="center">  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=600&color=4E5C97&vCenter=true&width=450&height=80&lines=Hi+there!%F0%9F%91%8B+;I'm+Rachid+Yagoubi+!%F0%9F%91%8A;I'm+a+web+Developer%F0%9F%9A%80!)" align="center"/></div>
 
 <div align="center" style="text-align: left; max-width: 1200px; margin:auto; font-size:1.2rem ; font-family:'Helvetica Neue';font-weight:bold">
   🔭 I’m currently working on a Next.js version of my portfolio.<br>
