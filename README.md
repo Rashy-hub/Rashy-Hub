@@ -1,15 +1,17 @@
-<img src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge" align="right"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Rashy-hub.Rashy-Hub" align="right"/>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=600&color=4E5C97&vCenter=true&width=450&height=80&lines=Hi+there!%F0%9F%91%8B+;I'm+Rachid+Yagoubi+!%F0%9F%91%8A;I'm+a+web+Developer%F0%9F%9A%80!" />
 </h1>
 
-<h2 align="center">About Me</h2>
+<h2 align="center">🎤 About Me</h2>
 <h3 align="center">👨‍💻 Web Developer | JavaScript Enthusiast | Versatile Coder 🚀Always ready to adapt and deliver.</h3>
 
-  - 🔭 I’m currently working on a **Next.js** version of my portfolio.<br>
-  - 🌱 I’m currently learning .NET/C#, ASP.NET, and Kubernetes.<br>
+  - 🔭 I’m currently working on a **Next.js** version of my [Portfolio](https://www.underconstructionpage.com/).<br>
+  - 🌱 I’m currently learning **.NET/C#**, **ASP.NET**, and **Kubernetes**.<br>
   - 🎨 I work on frontend projects too, but I’ll be honest—**I’m not a designer**! Still, I always do my best to create clean user interfaces.<br>
+
+<h2 align="center">💻 My main tech stack </h2>
 
 
 ### A List of Links That Showcase Some of My Skills
