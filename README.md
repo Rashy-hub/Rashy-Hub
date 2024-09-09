@@ -45,17 +45,15 @@
   <img src="https://img.shields.io/badge/strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white">
   <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=Appwrite&logoColor=black">
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
- 
-    
-    
-      
- </div>
+  </div>
 
 ### A List of Links That Showcase Some of My Skills
 
 - [**BeMovies**](https://bemovies.onrender.com)  
   *A movie showcase app built with HTML/CSS and Swiper.js.*  
   This project highlights my front-end skills, using simple but effective styling with Swiper.js for carousels.
+  <img src="assets/bemovies-screenshot.png" style="display: block; width: 600px; margin-bottom: 20px;">
+
 
 - [**Todo List Demo**](https://todo-list-demo.onrender.com)  
   *A full-stack todo app with Express.js handling authentication, REST API CRUD operations, and serving static files.*  
