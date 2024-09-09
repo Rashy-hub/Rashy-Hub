@@ -52,12 +52,16 @@
 - [**BeMovies**](https://bemovies.onrender.com)  
   *A movie showcase app built with HTML/CSS and Swiper.js.*  
   This project highlights my front-end skills, using simple but effective styling with Swiper.js for carousels.
-  <img src="assets/bemovies-screenshot.png" style="display: block; width: 600px; margin-bottom: 20px;">
+  [Check the code here - gitfront](https://gitfront.io/r/Neoth/w7YhrB7B8s5w/BeMovies/)
+  
+  <img src="assets/bemovies-screenshot.png" style="display: block; width: 600px; margin-bottom: 20px;margin-top: 20px;">
 
 
 - [**Todo List Demo**](https://todo-list-demo.onrender.com)  
   *A full-stack todo app with Express.js handling authentication, REST API CRUD operations, and serving static files.*  
   This project demonstrates my back-end expertise with Node.js and Express, covering key functionalities like user authentication and data management.
+    <img src="assets/todo-app.png" style="display: block; width: 600px; margin-bottom: 20px;margin-top: 20px;">
+
 
 - [**Emoji Search**](https://emojisearch-db.onrender.com)  
   *A simple React app for searching emojis.*  
@@ -85,7 +89,12 @@
 
 
 
+
+
+
+
 <!--
+
 **Rashy-hub/Rashy-Hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
