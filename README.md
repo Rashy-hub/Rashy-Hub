@@ -59,8 +59,10 @@
 
 - [**Todo List Demo**](https://todo-list-demo.onrender.com)  
   *A full-stack todo app with Express.js handling authentication, REST API CRUD operations, and serving static files.*  
-  This project demonstrates my back-end expertise with Node.js and Express, covering key functionalities like user authentication and data management.
-    <img src="assets/todo-app.png" style="display: block; width: 600px; margin-bottom: 20px;margin-top: 20px;">
+  This project demonstrates my back-end expertise with Node.js and Express, covering key functionalities like user authentication and data management. <br>
+ 
+  [Check the code here - gitfront](https://gitfront.io/r/Neoth/UCAL84TQNNZy/todo-list-demo/)
+  <img src="assets/todo-app.png" style="display: block; width: 600px; margin-bottom: 20px;margin-top: 20px;">
 
 
 - [**Emoji Search**](https://emojisearch-db.onrender.com)  
