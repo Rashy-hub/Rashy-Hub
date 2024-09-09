@@ -76,7 +76,7 @@
   *A job tracking app built with React to manage job applications, consuming a REST API for data.* <br>
   This project highlights my front-end expertise, including the use of animations and card-based UI for a smooth user experience.
 
-  <img src="assets/jobtracker.png" style="display: block; width: 600px;heigth: 600px; margin-bottom: 20px;margin-top: 20px;">
+  <img src="assets/jobtracker.png" style="display: block; width: 600px; margin-bottom: 20px;margin-top: 20px;">
 
 - [**Markdown Reader**](https://markdown-reader.onrender.com)  
   *A React app that renders markdown content.*  
