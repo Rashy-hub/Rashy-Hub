@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=600&color=4E5C97&vCenter=true&width=450&height=80&lines=Hi+there!%F0%9F%91%8B+;I'm+Rachid+Yagoubi+!%F0%9F%91%8A;I'm+a+web+Developer%F0%9F%9A%80!" />
 </h1>
 
-<h2 align="center">🎤 About Me</h2>
+<h2 align="center">🎤 About Me - ⚠ Page Still Under Construction ⚠ </h2>
 <h3 align="center">👨‍💻 Web Developer | JavaScript Enthusiast | Versatile Coder 🚀Always ready to adapt and deliver.</h3>
 
   - 🔭 I’m currently working on a **Next.js** version of my [Portfolio](https://www.underconstructionpage.com/).<br>
@@ -62,7 +62,7 @@
   This project demonstrates my back-end expertise with Node.js and Express, covering key functionalities like user authentication and data management. <br>
  
   [Check the code here - gitfront](https://gitfront.io/r/Neoth/UCAL84TQNNZy/todo-list-demo/)
-  
+
   <img src="assets/todo-app.png" style="display: block; width: 600px; margin-bottom: 20px;margin-top: 20px;">
 
 
