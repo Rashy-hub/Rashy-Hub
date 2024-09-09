@@ -68,11 +68,15 @@
 
 - [**Emoji Search**](https://emojisearch-db.onrender.com)  
   *A simple React app for searching emojis.*  
-  This showcases my React skills with a focus on efficient state management and a responsive UI.
+  This showcases my React skills with a focus on efficient state management and a responsive UI. <br>
+
+  <img src="assets/emoji-search.png" style="display: block; width: 600px; margin-bottom: 20px;margin-top: 20px;">
 
 - [**JobTrackr**](https://jobtrackr-6b0t.onrender.com)  
-  *A job tracking app built with React to manage job applications, consuming a REST API for data.*  
+  *A job tracking app built with React to manage job applications, consuming a REST API for data.* <br>
   This project highlights my front-end expertise, including the use of animations and card-based UI for a smooth user experience.
+
+  <img src="assets/jobtracker.png" style="display: block; width: 600px; margin-bottom: 20px;margin-top: 20px;">
 
 - [**Markdown Reader**](https://markdown-reader.onrender.com)  
   *A React app that renders markdown content.*  
