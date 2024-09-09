@@ -80,7 +80,9 @@
 
 - [**Markdown Reader**](https://markdown-reader.onrender.com)  
   *A React app that renders markdown content.*  
-  A simple but functional tool demonstrating my ability to work with markdown files in a React environment.
+  A simple but functional tool demonstrating my ability to work with markdown files in a React environment. <br>
+
+  <img src="assets/markdown-reader.png" style="display: block; width: 600px; margin-bottom: 20px;margin-top: 20px;">
 
 - [**Multi-step Form**](https://multistepform-ap6d.onrender.com)  
   *A multi-step form built with React.*  
