@@ -51,7 +51,7 @@
 
 - [**BeMovies**](https://bemovies.onrender.com)  
   *A movie showcase app built with HTML/CSS and Swiper.js.*  
-  This project highlights my front-end skills, using simple but effective styling with Swiper.js for carousels.
+  This project highlights my front-end skills, using simple but effective styling with Swiper.js for carousels.<br>
   [Check the code here - gitfront](https://gitfront.io/r/Neoth/w7YhrB7B8s5w/BeMovies/)
   
   <img src="assets/bemovies-screenshot.png" style="display: block; width: 600px; margin-bottom: 20px;margin-top: 20px;">
