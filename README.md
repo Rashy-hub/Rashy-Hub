@@ -25,7 +25,7 @@
 
 
 </div>
-<h2 align="center">💻 My main tech stack </h2>
+<h2 align="center">💻 My main tech stack 💻</h2>
 <br>
 <div align="center" >
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -47,21 +47,45 @@
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
   </div>
 
-### A List of Links That Showcase Some of My Skills
+<h2 align="center">🎓 My current learning focus 🎓</h2>
+<div align ="center">
+ <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
+ <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"> 
+ <img src="  https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"> 
+</div>
+
+### 
+
+### Showcase of Projects Completed During My BeCode Bootcamp
+
+⚠️ **Note**: *While these projects started with the same guidelines for everyone, I made it a priority to personalize and add extra features to each one, ensuring my unique touch. Most of these projects are still in progress and will continue to evolve toward perfection.* 🚧✨<br>
 
 - [**BeMovies**](https://bemovies.onrender.com)  
   *A movie showcase app built with HTML/CSS and Swiper.js.*  
   This project highlights my front-end skills, using simple but effective styling with Swiper.js for carousels.<br>
-  [Check the code here - gitfront](https://gitfront.io/r/Neoth/w7YhrB7B8s5w/BeMovies/)
+  [Check the repo here ](https://github.com/Rashy-hub/BeMovies)
   
   <img src="assets/bemovies-screenshot.png" style="display: block; width: 600px; margin-bottom: 20px;margin-top: 20px;">
 
+- [**JobTrackr**](https://jobtrackr-6b0t.onrender.com)  
+  *A job tracking app built with React to manage job applications, consuming a REST API for data.* 
+  This project highlights my front-end expertise, including the use of animations and card-based UI for a smooth user experience. <br>
+  [Check the repo here ](https://github.com/Rashy-hub/JobTrackr)
+
+  <img src="assets/jobtracker.png" style="display: block; width: 600px; margin-bottom: 20px;margin-top: 20px;">
+
+- [**Recipe App**](https://recipe-react-app-va6l.onrender.com)  
+  *A recipe app that uses Appwrite BaaS as a backend.*  
+  This project shows my full-stack skills, integrating React with Appwrite for backend functionalities like data storage and authentication. <br>
+  [Check the repo here ](https://github.com/Rashy-hub/Recipe-React-App)
+
+  <img src="assets/recipe-app.png" style="display: block; width: 600px; margin-bottom: 20px;margin-top: 20px;">
 
 - [**Todo List Demo**](https://todo-list-demo.onrender.com)  
   *A full-stack todo app with Express.js handling authentication, REST API CRUD operations, and serving static files.*  
   This project demonstrates my back-end expertise with Node.js and Express, covering key functionalities like user authentication and data management. <br>
  
-  [Check the code here - gitfront](https://gitfront.io/r/Neoth/UCAL84TQNNZy/todo-list-demo/)
+  [Check the repo here](https://github.com/Rashy-hub/todo-list-demo)
 
   <img src="assets/todo-app.png" style="display: block; width: 600px; margin-bottom: 20px;margin-top: 20px;">
 
@@ -70,31 +94,34 @@
   *A simple React app for searching emojis.*  
   This showcases my React skills with a focus on efficient state management and a responsive UI. <br>
 
+  [Check the repo here](https://github.com/Rashy-hub/emojiSearch-reactdemo)
+
   <img src="assets/emoji-search.png" style="display: block; width: 600px; margin-bottom: 20px;margin-top: 20px;">
-
-- [**JobTrackr**](https://jobtrackr-6b0t.onrender.com)  
-  *A job tracking app built with React to manage job applications, consuming a REST API for data.* <br>
-  This project highlights my front-end expertise, including the use of animations and card-based UI for a smooth user experience.
-
-  <img src="assets/jobtracker.png" style="display: block; width: 600px; margin-bottom: 20px;margin-top: 20px;">
 
 - [**Markdown Reader**](https://markdown-reader.onrender.com)  
   *A React app that renders markdown content.*  
   A simple but functional tool demonstrating my ability to work with markdown files in a React environment. <br>
 
+  [Check the repo here](https://github.com/Rashy-hub/MarkDown-Reader)
+
   <img src="assets/markdown-reader.png" style="display: block; width: 600px; margin-bottom: 20px;margin-top: 20px;">
 
 - [**Multi-step Form**](https://multistepform-ap6d.onrender.com)  
   *A multi-step form built with React.*  
-  This app showcases my skills in building dynamic, form-based UIs using React for smooth transitions and data handling.
+  This app showcases my skills in building dynamic, form-based UIs using React for smooth transitions and data handling. <br>
+
+  <img src="assets/mutlistepform.png" style="display: block; width: 600px; margin-bottom: 20px;margin-top: 20px;">
+
+  [Check the repo here](https://github.com/Rashy-hub/MultiStepForm)
 
 - [**Stopwatch**](https://stopwatch-bd8y.onrender.com)  
   *A React-based stopwatch with lap-saving functionality.*  
-  This project demonstrates my ability to build time-based applications with complex state management.
+  This project demonstrates my ability to build time-based applications with complex state management. <br>
 
-- [**Recipe App**](https://recipe-react-app-va6l.onrender.com)  
-  *A recipe app that uses Appwrite BaaS as a backend.*  
-  This project shows my full-stack skills, integrating React with Appwrite for backend functionalities like data storage and authentication.
+  [Check the repo here](https://github.com/Rashy-hub/StopWatch)
+
+  <img src="assets/stopwatch.png" style="display: block; width: 600px; margin-bottom: 20px;margin-top: 20px;">
+
 
 
 
