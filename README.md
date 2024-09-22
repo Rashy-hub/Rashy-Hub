@@ -110,9 +110,9 @@
   *A multi-step form built with React.*  
   This app showcases my skills in building dynamic, form-based UIs using React for smooth transitions and data handling. <br>
 
-  <img src="assets/mutlistepform.png" style="display: block; width: 600px; margin-bottom: 20px;margin-top: 20px;">
-
   [Check the repo here](https://github.com/Rashy-hub/MultiStepForm)
+
+  <img src="assets/mutlistepform.png" style="display: block; width: 600px; margin-bottom: 20px;margin-top: 20px;">
 
 - [**Stopwatch**](https://stopwatch-bd8y.onrender.com)  
   *A React-based stopwatch with lap-saving functionality.*  
@@ -124,9 +124,9 @@
 
 
 
+### Stats 
 
-
-
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashy-hub&layout=compact&langs=10)](https://github.com/anvaka/github-readme-stats)
 
 
 <!--
