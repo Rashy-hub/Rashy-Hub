@@ -54,7 +54,17 @@
  <img src="  https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"> 
 </div>
 
-### 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashy-hub&layout=compact&langs=10" alt="Top Languages"></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=Rashy-hub&show_icons=true&count_private=true&hide=contribs,prs&include_all_commits=true&theme=default" alt="GitHub Stats"></td>
+    </tr>
+  </table>
+</div>
+
 
 ### Showcase of Projects Completed During My BeCode Bootcamp
 
@@ -123,16 +133,27 @@
   <img src="assets/stopwatch.png" style="display: block; width: 600px; margin-bottom: 20px;margin-top: 20px;">
 
 
+<h2 align="center">🚀 Featured Repositories 🚀</h2>
+<br>
+<div align="center">
+  <a href="https://github.com/Rashy-hub/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rashy-hub&repo=TypeScript-Interactive-CLI-Learning-SandBox&theme=default" alt="TypeScript-Interactive-CLI-Learning-SandBox">
+  </a>
+  <a href="https://github.com/Rashy-hub/nom-du-repo-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rashy-hub&repo=portfolio-responsive-design&theme=default" alt="Portfolio html css only">
+  </a>
+   <a href="https://github.com/Rashy-hub/nom-du-repo-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rashy-hub&repo=TechNotes&theme=default" alt="TechNotes">
+  </a>
+ 
+</div>
 
-### Stats 
-
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashy-hub&layout=compact&langs=10)](https://github.com/anvaka/github-readme-stats)
 
 
 <!--
 
 **Rashy-hub/Rashy-Hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashy-hub&layout=compact&langs=10)](https://github.com/anvaka/github-readme-stats)
 Here are some ideas to get you started:
 
 
