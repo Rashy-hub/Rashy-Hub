@@ -80,12 +80,18 @@
 
 ⚠️ Note: While most of these projects began as inspirations from my BeCode bootcamp or online YouTube videos (primarily from Dave Gray), I made it a priority to personalize each one and add extra features, ensuring my unique touch. Most of these projects are still in progress and will continue to evolve toward perfection. 🚧✨<br>
 
-<div  align="center">
+| **Categories: Click the badges below to navigate to specific project sections.**                                                                                                                                                                                                                                   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [![Full-Stack Projects](https://img.shields.io/badge/Full--Stack%20Projects-blue?style=for-the-badge)](#full-projects) [![Frontend UI](https://img.shields.io/badge/Frontend%20UI-green?style=for-the-badge)](#frontend-ui) [![Backend APIs](https://img.shields.io/badge/Backend%20APIs-yellow?style=for-the-badge)](#backend-apis) [![Utility & Learning Projects](https://img.shields.io/badge/Utility%20%26%20Learning%20Projects-lightblue?style=for-the-badge)](#utility-learning) |
+
+
+<!-- <div  align="center">
   <a href="#full-projects" style="margin: 0 15px; font-size: 2rem; text-decoration: none; color: white; background-color: #007BFF; padding: 10px 20px; border-radius: 5px; transition: background-color 0.3s;">Full-Stack Projects</a>
   <a href="#frontend-ui" style="margin: 0 15px; font-size: 2rem; text-decoration: none; color: white; background-color: #28A745; padding: 10px 20px; border-radius: 5px; transition: background-color 0.3s;">Frontend UI</a>
   <a href="#backend-apis" style="margin: 0 15px; font-size: 2rem; text-decoration: none; color: white; background-color: #FFC107; padding: 10px 20px; border-radius: 5px; transition: background-color 0.3s;">Backend APIs</a>
   <a href="#utility-learning" style="margin: 0 15px; font-size: 2rem; text-decoration: none; color: white; background-color: #17A2B8; padding: 10px 20px; border-radius: 5px; transition: background-color 0.3s;">Utility & Learning Projects</a>
 </div>
+ -->
 
 
 ### <h3 id="full-projects"> 📚 Full-Stack Main Projects </h3> 
