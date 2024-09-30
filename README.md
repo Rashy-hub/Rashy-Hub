@@ -87,11 +87,7 @@
   <a href="#utility-learning" style="margin: 0 15px; font-size: 2rem; text-decoration: none; color: white; background-color: #17A2B8; padding: 10px 20px; border-radius: 5px; transition: background-color 0.3s;">Utility & Learning Projects</a>
 </div>
 
-<style>
-  div a:hover {
-    opacity: 0.8;
-  }
-</style>
+
 
 ### <h3 id="full-projects"> 📚 Full-Stack Main Projects </h3> 
 
