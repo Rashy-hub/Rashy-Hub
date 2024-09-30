@@ -76,6 +76,20 @@
   </table>
 </div>
 
+<h2 align="center">🚀 Featured Repositories 🚀</h2>
+<br>
+<div align="center">
+  <a href="https://github.com/Rashy-hub/TypeScript-Interactive-CLI-Learning-SandBox">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rashy-hub&repo=TypeScript-Interactive-CLI-Learning-SandBox&theme=default" alt="TypeScript-Interactive-CLI-Learning-SandBox">
+  </a>
+  <a href="https://github.com/Rashy-hub/portfolio-responsive-design">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rashy-hub&repo=portfolio-responsive-design&theme=default" alt="Portfolio Responsive Design">
+  </a>
+  <a href="https://github.com/Rashy-hub/TechNotes">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rashy-hub&repo=TechNotes&theme=default" alt="TechNotes">
+  </a>
+</div>
+
 <h2 align="center">🌟 Showcase of my main projects and major exercices🌟</h2>
 
 ⚠️ Note: While most of these projects began as inspirations from my BeCode bootcamp or online YouTube videos (primarily from Dave Gray), I made it a priority to personalize each one and add extra features, ensuring my unique touch. Most of these projects are still in progress and will continue to evolve toward perfection. 🚧✨<br>
@@ -93,30 +107,29 @@
   }
 </style>
 
-### <h3 id="full-projects"> 📚 Full-Stack Main Projects </h3> 
+### 📚 Full-Stack Main Projects 
 
 ---
 
 #### **JobTrackr**
+
 A job tracking app built with React to manage job applications, consuming a REST API for data. This project highlights my front-end skills, including the use of animations and a card-based UI for a smooth user experience. 
 The backend is a simple Api using JWT for authentication and mongodb for database (on the cloud) 
 
-![Isotope](https://img.shields.io/badge/Isotope-Layout%20Library-blue)
-![Particle.js](https://img.shields.io/badge/Particle.js-Particles%20Animation-blue)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
-
-[Live Demo on render](https://jobtrackr-6b0t.onrender.com) | [GitHub Backend Repository ](https://github.com/Rashy-hub/JobTrackr) |[GitHub Front Repository](https://github.com/Rashy-hub/JobTrackr-Front) 
+![Isotope](https://img.shields.io/badge/Isotope-Layout%20Library-blue)
+![Particle.js](https://img.shields.io/badge/Particle.js-Particles%20Animation-blue)
+[Live Demo on render](https://jobtrackr-6b0t.onrender.com) | [GitHub Backend Repository ](https://github.com/Rashy-hub/JobTrackr) |[GitHub Front Repository](https://github.com/Rashy-hub/JobTrackr-Front)
 
 <img src="assets/jobtracker.png" alt="JobTrackr" width="600" style="display: block; margin: 20px auto;">
 
 ---
 
 #### **Todo List Demo**
-  A full-stack todo app with Express.js handling authentication, REST API CRUD operations, and serving static files. 
-  This project demonstrates my back-end expertise with Node.js and Express, covering key functionalities like user authentication and data management.
+Une application todo full-stack avec Express.js gérant l'authentification, les opérations CRUD de l'API REST et la gestion des fichiers statiques. Cette application démontre mon expertise back-end avec Node.js et Express, couvrant des fonctionnalités clés telles que l'authentification des utilisateurs et la gestion des données.  
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -129,11 +142,11 @@ The backend is a simple Api using JWT for authentication and mongodb for databas
 ---
 
 #### **Recipe React App**
-  A recipe app that uses Appwrite BaaS as a backend. This project shows my full-stack skills, integrating React with Appwrite for backend functionalities like data storage and authentication.
+Une application de recettes utilisant Appwrite BaaS comme backend. Ce projet montre mes compétences full-stack, intégrant React avec Appwrite pour des fonctionnalités back-end telles que le stockage de données et l'authentification.  
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=Appwrite&logoColor=black)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 [Live Demo](https://recipe-react-app-va6l.onrender.com) | [GitHub Repository](https://github.com/Rashy-hub/Recipe-React-App)
 
 <img src="assets/recipe-app.png" alt="Recipe React App" width="600" style="display: block; margin: 20px auto;">
@@ -147,7 +160,7 @@ La deuxième version de mon projet KriticArt, migrée vers TypeScript avec Swagg
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 [No live Demo (WIP) ](#) | [GitHub  FullStack Repository](https://github.com/Rashy-hub/KriticArt-FullStack)
 
-<img src="assets/workinprogress.jpg" alt="KriticArt FullStack" width="600" style="display: block; margin: 20px auto;">
+<img src="assets/kriticart.png" alt="KriticArt FullStack" width="600" style="display: block; margin: 20px auto;">
 
 ---
 
@@ -161,13 +174,18 @@ Une API construite avec Express.js basée sur un tutoriel de Dave Gray, amélior
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)    
 [GitHub Backend Repository](https://github.com/Rashy-hub/TechNotes) | [GitHub Front Repository](https://github.com/Rashy-hub/TechNotes-Client)
 
-<img src="assets/workinprogress.jpg" alt="TechNotes API" width="600" style="display: block; margin: 20px auto;">
-
-<hr>
+<img src="assets/technotes.png" alt="TechNotes API" width="600" style="display: block; margin: 20px auto;">
 
 ---
 
-### <h3 id="frontend-ui">🎨 Frontend Projects</h3> 
+#### **TechNotes-Client**
+L'application frontend React de TechNotes, offrant une interface conviviale pour gérer les notes techniques et suivre les tickets.  
+
+
+
+<img src="assets/technotes-client.png" alt="TechNotes Client" width="600" style="display: block; margin: 20px auto;">
+
+### 🎨 Frontend Projects 
 
 ---
 
@@ -277,30 +295,24 @@ Une application React qui rend le contenu Markdown, démontrant ma capacité à 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)  
 [Live Demo](https://markdown-reader.onrender.com) | [GitHub Repository](https://github.com/Rashy-hub/MarkDown-Reader)
 
-<img src="assets/markdown-reader.png" alt="Markdown Reader" width="600" style="display: block; margin: 20px auto;">
-
-
 ### 🧩 Utility & Learning Projects
 
 ---
+<img src="assets/markdown-reader.png" alt="Markdown Reader" width="600" style="display: block; margin: 20px auto;">
 
 
-
-
----
-<h2 align="center">🚀 Featured Repositories 🚀</h2>
+<h2 align="center">🔧 Tools & Platforms 🔧</h2>
 <br>
 <div align="center">
-  <a href="https://github.com/Rashy-hub/TypeScript-Interactive-CLI-Learning-SandBox">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rashy-hub&repo=TypeScript-Interactive-CLI-Learning-SandBox&theme=default" alt="TypeScript-Interactive-CLI-Learning-SandBox">
-  </a>
-  <a href="https://github.com/Rashy-hub/portfolio-responsive-design">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rashy-hub&repo=portfolio-responsive-design&theme=default" alt="Portfolio Responsive Design">
-  </a>
-  <a href="https://github.com/Rashy-hub/TechNotes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rashy-hub&repo=TechNotes&theme=default" alt="TechNotes">
-  </a>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
 </div>
+
+---
 
 <h2 align="center">📫 Get in Touch 📫</h2>
 <br>
