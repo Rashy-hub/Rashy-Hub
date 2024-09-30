@@ -136,13 +136,13 @@
 <h2 align="center">🚀 Featured Repositories 🚀</h2>
 <br>
 <div align="center">
-  <a href="https://github.com/Rashy-hub/">
+  <a href="https://github.com/Rashy-hub/TypeScript-Interactive-CLI-Learning-SandBox">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rashy-hub&repo=TypeScript-Interactive-CLI-Learning-SandBox&theme=default" alt="TypeScript-Interactive-CLI-Learning-SandBox">
   </a>
-  <a href="https://github.com/Rashy-hub/nom-du-repo-2">
+  <a href="https://github.com/Rashy-hub/portfolio-responsive-design">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rashy-hub&repo=portfolio-responsive-design&theme=default" alt="Portfolio html css only">
   </a>
-   <a href="https://github.com/Rashy-hub/nom-du-repo-2">
+   <a href="https://github.com/Rashy-hub/TechNotes">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rashy-hub&repo=TechNotes&theme=default" alt="TechNotes">
   </a>
  
@@ -163,5 +163,32 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...my-github/
+│
+├── Full-Projects/
+│   ├── Portfolio/
+│   ├── E-commerce-Site/
+│   └── Blog/
+│
+├── Frontend-UI/
+│   ├── Figma-Integration/
+│   │   ├── LandingPage/
+│   │   └── Dashboard/
+│   ├── React-Components/
+│   │   ├── TodoApp/
+│   │   └── WeatherApp/
+│   └── Static-Sites/
+│       ├── MarketingSite/
+│       └── ProductPage/
+│
+├── Backend-APIs/
+│   ├── API-Express/
+│   └── Auth-Service/
+│
+└── Documentation/ (if needed)
+
+
+
+
+
 -->
