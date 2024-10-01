@@ -70,8 +70,8 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashy-hub&layout=compact&langs=10" alt="Top Languages"></td>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Rashy-hub&show_icons=true&count_private=true&hide=contribs,prs&include_all_commits=true&theme=default" alt="GitHub Stats"></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashy-hub&layout=compact&langs=10&theme=dark" alt="Top Languages"></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=Rashy-hub&show_icons=true&count_private=true&hide=contribs,prs&include_all_commits=true&theme=dark" alt="GitHub Stats"></td>
     </tr>
   </table>
 </div>
@@ -99,17 +99,19 @@
 ---
 
 #### **JobTrackr**
-A job tracking app built with React to manage job applications, consuming a REST API for data. This project highlights my front-end skills, including the use of animations and a card-based UI for a smooth user experience. 
-The backend is a simple Api using JWT for authentication and mongodb for database (on the cloud) 
+A job tracking app built with HTML, SASS, and vanilla JavaScript to manage job applications. This project showcases my front-end skills, including the use of animations, modal management, and a card-based UI for a smooth user experience. The backend integrates with a REST API for data, using JWT for authentication and MongoDB for the database (hosted on the cloud).
 
 ![Isotope](https://img.shields.io/badge/Isotope-Layout%20Library-blue)
 ![Particle.js](https://img.shields.io/badge/Particle.js-Particles%20Animation-blue)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-300A5D?style=for-the-badge&logo=cloudinary&logoColor=white)
 
-[Live Demo on render](https://jobtrackr-6b0t.onrender.com) | [GitHub Backend Repository ](https://github.com/Rashy-hub/JobTrackr) |[GitHub Front Repository](https://github.com/Rashy-hub/JobTrackr-Front) 
+[Live Demo on render](https://jobtrackr-6b0t.onrender.com) | [GitHub Backend Repository](https://github.com/Rashy-hub/JobTrackr) | [GitHub Frontend Repository](https://github.com/Rashy-hub/JobTrackr-Front)
 
 <img src="assets/jobtracker.png" alt="JobTrackr" width="600" style="display: block; margin: 20px auto;">
 
