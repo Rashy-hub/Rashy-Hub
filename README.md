@@ -118,16 +118,21 @@ A job tracking app built with HTML, SASS, and vanilla JavaScript to manage job a
 ---
 
 #### **Todo List Demo**
-  A full-stack todo app with Express.js handling authentication, REST API CRUD operations, and serving static files. 
-  This project demonstrates my back-end expertise with Node.js and Express, covering key functionalities like user authentication and data management.
+
+A full-stack Todo List application built with Node.js, Express.js, and MongoDB, featuring user authentication with JWT, and complete CRUD operations for managing tasks. This project showcases secure user management, data persistence with MongoDB, and a clean, responsive frontend served from the backend. It highlights my ability to build robust backend services and integrate them with a dynamic frontend.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 [Live Demo](https://todo-list-demo.onrender.com) | [GitHub FullStack Repository](https://github.com/Rashy-hub/todo-list-demo)
 
 <img src="assets/todo-app.png" alt="Todo List Demo" width="600" style="display: block; margin: 20px auto;">
+
 
 ---
 
