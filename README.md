@@ -11,11 +11,6 @@
 - 🌱 I’m currently learning **.NET/C#**, **ASP.NET**, and **Kubernetes**.<br>
 - 🎨 I work on frontend projects too, but I’ll be honest—**I’m not a designer**! Still, I always do my best to create clean user interfaces.<br>
 
-> **"Do not let anyone box you in or define your talent. Claim it, own it, and leave behind those who try to hold you back in the dust of your rise."**
-> 
-> _Stay bold, stay unstoppable._
-
-
 <br>
 
 <div align="center">
