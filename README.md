@@ -167,7 +167,7 @@ In summary, it’s a simple system for listing and rating movies you've seen or 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![ASP.NET Identity](https://img.shields.io/badge/ASP.NET_Identity-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-[No live Demo (WIP)](#) | [GitHub MVC Repository](https://github.com/Rashy-hub/WatchList)
+[No live preview (WIP)](#) | [GitHub MVC Repository](https://github.com/Rashy-hub/WatchList)
 
 <img src="assets/watchlist.png" alt="Work in progress" width="600" style="display: block; margin: 20px auto;">
 
@@ -186,7 +186,7 @@ KriticArt is a MERN stack project focused on showcasing a powerful and scalable 
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![Multer](https://img.shields.io/badge/Multer-4A4A55?style=for-the-badge&logo=multer&logoColor=white)
 
-[No live Demo (WIP) ](#) | [GitHub  FullStack Repository](https://github.com/Rashy-hub/KriticArt-FullStack)
+[No live preview (WIP) ](#) | [GitHub  FullStack Repository](https://github.com/Rashy-hub/KriticArt-FullStack)
 
 <img src="assets/workinprogress.jpg" alt="KriticArt FullStack" width="600" style="display: block; margin: 20px auto;">
 
@@ -204,7 +204,7 @@ TechNotes is an API built with Express.js, enhanced based on a tutorial by Dave 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)    
 
-[GitHub Backend Repository](https://github.com/Rashy-hub/TechNotes) | [GitHub Front Repository](https://github.com/Rashy-hub/TechNotes-Client)
+[No live preview (WIP) ](#) | [GitHub Backend Repository](https://github.com/Rashy-hub/TechNotes) | [GitHub Front Repository](https://github.com/Rashy-hub/TechNotes-Client)
 
 <img src="assets/workinprogress.jpg" alt="TechNotes API" width="600" style="display: block; margin: 20px auto;">
 
@@ -217,27 +217,33 @@ TechNotes is an API built with Express.js, enhanced based on a tutorial by Dave 
 ---
 
 #### **BeMovies**
+
 A movie presentation application built with HTML/CSS and **Swiper.js**. This project showcases my front-end skills with a simple yet effective style and interactive carousels.
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Swiper.js](https://img.shields.io/badge/Swiper.js-0199FF?style=for-the-badge&logo=swiper&logoColor=white)  
-[Live Demo](https://bemovies.onrender.com) | [GitHub Repository](https://github.com/Rashy-hub/BeMovies)
+
+[Live Preview on render](https://bemovies.onrender.com) | [GitHub Repository](https://github.com/Rashy-hub/BeMovies)
 
 <img src="assets/bemovies-screenshot.png" alt="BeMovies" width="600" style="display: block; margin: 20px auto;">
 
 ---
 
 #### **Portfolio - Original Design**
+
 My first attempt to create an original portfolio using only HTML, CSS, and JavaScript. It features a typewriter effect, a timeline view, animated cards, and other sophisticated effects to showcase my design ideas.  
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
-[GitHub Repository](https://github.com/Rashy-hub/portfolio-responsive-design)
+[Live Preview on render](https://yagoubi-rachid-dev.onrender.com) | [GitHub Repository](https://github.com/Rashy-hub/portfolio-responsive-design)
 
 <img src="assets/portfolio-style.png" alt="Portfolio Responsive Design" width="600" style="display: block; margin: 20px auto;">
 
 ---
 
+<hr>
 
 ### **Static Sites integration**
 
@@ -246,16 +252,19 @@ My first attempt to create an original portfolio using only HTML, CSS, and JavaS
 - [Responsive Blog](https://github.com/Rashy-hub/Mini-Projects/tree/main/Frontend%20mini%20projects/HTML%26CSS%20projects/Responsive%20WebPage%20-%20Final)
 
 Ces exercices d'intégration de designs Figma en pages statiques HTML/CSS démontrent mon souci du détail et ma capacité à traduire des maquettes de design en pages web fonctionnelles.  
-![Ipsum News](assets/ipsum-news.png)  
-![Pixel Perfect](assets/pixel-perfect.png)  
-![Responsive Blog](assets/responsive-blog.png)
+
+- [Ipsum News](assets/ipsum-news.png)  
+- [Pixel Perfect](assets/pixel-perfect.png)  
+- [Responsive Blog](assets/responsive-blog.png)
 
 ---
 
 ### React Major Exercices
 
 #### **Weather App**
+
 Une application React qui consomme une API météo en utilisant Redux Toolkit. Démontre une gestion d'état efficace et une interface utilisateur réactive.  
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
