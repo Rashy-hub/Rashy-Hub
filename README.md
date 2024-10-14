@@ -174,10 +174,18 @@ In summary, it’s a simple system for listing and rating movies you've seen or 
 ---
 
 #### **KriticArt-FullStack**
-La deuxième version de mon projet KriticArt, migrée vers TypeScript avec Swagger pour la documentation de l'API. Cette application MERN stack met en avant des fonctionnalités back-end avancées et une conception d'API robuste.  
+
+KriticArt is a MERN stack project focused on showcasing a powerful and scalable back-end API. This is the second version of the project, refactored into TypeScript to improve type safety and maintainability. The API is also documented with Swagger, enhancing usability for developers. KriticArt is a collaborative photo-sharing and review platform built using the MERN stack. Users can create accounts, upload photos from their devices or import them via third-party services. The platform allows users to comment on and rate photos, create personal galleries, and mark favorites. The homepage features a curated selection of random or thematic images, fetched from public APIs. The back-end, implemented in TypeScript, is designed for scalability and includes advanced functionalities like authentication, media uploads, and external API integrations.
+**Work is still in progress** 🚧 
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Multer](https://img.shields.io/badge/Multer-4A4A55?style=for-the-badge&logo=multer&logoColor=white)
+
 [No live Demo (WIP) ](#) | [GitHub  FullStack Repository](https://github.com/Rashy-hub/KriticArt-FullStack)
 
 <img src="assets/workinprogress.jpg" alt="KriticArt FullStack" width="600" style="display: block; margin: 20px auto;">
@@ -185,13 +193,17 @@ La deuxième version de mon projet KriticArt, migrée vers TypeScript avec Swagg
 ---
 
 #### **TechNotes**
-Une API construite avec Express.js basée sur un tutoriel de Dave Gray, améliorée pour répondre à des besoins spécifiques. TechNotes est une application de gestion de notes techniques avec des fonctionnalités telles que la connexion des employés, l'assignation de notes, le suivi des tickets et la gestion des utilisateurs avec des rôles définis.  
+
+TechNotes is an API built with Express.js, enhanced based on a tutorial by Dave Gray to meet specific needs. This technical note management application features employee login, note assignment, ticket tracking, and user management with defined roles. The system allows employees to manage their assigned notes while providing managers and admins with broader access to edit and delete notes as needed.  
+**Work is still in progress** 🚧
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)    
+
 [GitHub Backend Repository](https://github.com/Rashy-hub/TechNotes) | [GitHub Front Repository](https://github.com/Rashy-hub/TechNotes-Client)
 
 <img src="assets/workinprogress.jpg" alt="TechNotes API" width="600" style="display: block; margin: 20px auto;">
@@ -205,7 +217,7 @@ Une API construite avec Express.js basée sur un tutoriel de Dave Gray, amélior
 ---
 
 #### **BeMovies**
-Une application de présentation de films construite avec HTML/CSS et Swiper.js. Ce projet met en avant mes compétences front-end avec un style simple mais efficace et des carrousels interactifs.  
+A movie presentation application built with HTML/CSS and **Swiper.js**. This project showcases my front-end skills with a simple yet effective style and interactive carousels.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Swiper.js](https://img.shields.io/badge/Swiper.js-0199FF?style=for-the-badge&logo=swiper&logoColor=white)  
@@ -215,30 +227,19 @@ Une application de présentation de films construite avec HTML/CSS et Swiper.js.
 
 ---
 
-#### **Nextjs Blog Demo**
-Un projet de blog construit avec Next.js et TypeScript, inspiré par un tutoriel de Dave Gray. Amélioré avec MDX pour le contenu dynamique, Tailwind CSS pour le style, la coloration syntaxique, et optimisé pour la performance et le SEO avec SSR et SSG.  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MDX](https://img.shields.io/badge/MDX-000000?style=for-the-badge&logo=mdx&logoColor=white)  
-[GitHub Repository](https://github.com/Rashy-hub/NextjsBlogDemo)
-
-<img src="assets/nextjs-blog-demo.png" alt="Nextjs Blog Demo" width="600" style="display: block; margin: 20px auto;">
-
----
-
-#### **Taco Shop**
-Une page d'intégration statique en HTML/CSS basée sur l'exercice final de Dave Gray. Se concentre sur la traduction des designs Figma en pages web réactives et visuellement attrayantes.  
+#### **Portfolio - Original Design**
+Ma première tentative de créer un portfolio original en utilisant uniquement HTML, CSS et JavaScript. Comprend des effets de machine à écrire, une chronologie, des cartes animées et d'autres effets sophistiqués pour présenter mes idées de design.  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-[GitHub Repository](https://github.com/Rashy-hub/Taco-Shop)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+[GitHub Repository](https://github.com/Rashy-hub/portfolio-responsive-design)
 
-<img src="assets/taco-shop.png" alt="Taco Shop" width="600" style="display: block; margin: 20px auto;">
+<img src="assets/portfolio-style.png" alt="Portfolio Responsive Design" width="600" style="display: block; margin: 20px auto;">
 
 ---
 
-#### **Static Sites**
-**Mini Projects**:
+### **Static Sites integration**
+
 - [Ipsum News](https://github.com/Rashy-hub/Mini-Projects/tree/main/Frontend%20mini%20projects/HTML%26CSS%20projects/Ipsum%20News)
 - [Pixel Perfect](https://github.com/Rashy-hub/Mini-Projects/tree/main/Frontend%20mini%20projects/HTML%26CSS%20projects/PixelPerfect)
 - [Responsive Blog](https://github.com/Rashy-hub/Mini-Projects/tree/main/Frontend%20mini%20projects/HTML%26CSS%20projects/Responsive%20WebPage%20-%20Final)
@@ -250,16 +251,6 @@ Ces exercices d'intégration de designs Figma en pages statiques HTML/CSS démon
 
 ---
 
-#### **Portfolio Responsive Design**
-Ma première tentative de créer un portfolio original en utilisant uniquement HTML, CSS et JavaScript. Comprend des effets de machine à écrire, une chronologie, des cartes animées et d'autres effets sophistiqués pour présenter mes idées de design.  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
-[GitHub Repository](https://github.com/Rashy-hub/portfolio-responsive-design)
-
-<img src="assets/portfolio-responsive-design.png" alt="Portfolio Responsive Design" width="600" style="display: block; margin: 20px auto;">
-
----
 ### React Major Exercices
 
 #### **Weather App**
