@@ -228,7 +228,7 @@ A movie presentation application built with HTML/CSS and **Swiper.js**. This pro
 ---
 
 #### **Portfolio - Original Design**
-Ma première tentative de créer un portfolio original en utilisant uniquement HTML, CSS et JavaScript. Comprend des effets de machine à écrire, une chronologie, des cartes animées et d'autres effets sophistiqués pour présenter mes idées de design.  
+My first attempt to create an original portfolio using only HTML, CSS, and JavaScript. It features a typewriter effect, a timeline view, animated cards, and other sophisticated effects to showcase my design ideas.  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
@@ -237,6 +237,7 @@ Ma première tentative de créer un portfolio original en utilisant uniquement H
 <img src="assets/portfolio-style.png" alt="Portfolio Responsive Design" width="600" style="display: block; margin: 20px auto;">
 
 ---
+
 
 ### **Static Sites integration**
 
