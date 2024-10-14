@@ -110,13 +110,13 @@ A job tracking app built with HTML, SASS, and vanilla JavaScript to manage job a
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-300A5D?style=for-the-badge&logo=cloudinary&logoColor=white)
 
-[Live Demo on render](https://jobtrackr-6b0t.onrender.com) | [GitHub Backend Repository](https://github.com/Rashy-hub/JobTrackr) | [GitHub Frontend Repository](https://github.com/Rashy-hub/JobTrackr-Front)
+[Live Preview on render](https://jobtrackr-6b0t.onrender.com) | [GitHub Backend Repository](https://github.com/Rashy-hub/JobTrackr) | [GitHub Frontend Repository](https://github.com/Rashy-hub/JobTrackr-Front)
 
 <img src="assets/jobtracker.png" alt="JobTrackr" width="600" style="display: block; margin: 20px auto;">
 
 ---
 
-#### **Todo List Demo**
+#### **TaskTrackr**
 
 A full-stack Todo List application built with Node.js, Express.js, and MongoDB, featuring user authentication with JWT, and complete CRUD operations for managing tasks. This project showcases secure user management, data persistence with MongoDB, and a clean, responsive frontend served from the backend. It highlights my ability to build robust backend services and integrate them with a dynamic frontend.
 
@@ -128,22 +128,48 @@ A full-stack Todo List application built with Node.js, Express.js, and MongoDB, 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-[Live Demo](https://todo-list-demo.onrender.com) | [GitHub FullStack Repository](https://github.com/Rashy-hub/todo-list-demo)
+[Live Preview on render](https://todo-list-demo.onrender.com) | [GitHub FullStack Repository](https://github.com/Rashy-hub/todo-list-demo)
 
 <img src="assets/todo-app.png" alt="Todo List Demo" width="600" style="display: block; margin: 20px auto;">
 
+---
+
+#### **Recipe Dream**
+
+A recipe app a web application built with **React** that allows users to explore, create, and manage their favorite recipes. This app leverages the Appwrite backend (BAAS) for user authentication and data management, and integrates the Spoonacular Public API to fetch a wide variety of recipes and culinary information.
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=Appwrite&logoColor=black)
+![Spoonacular API](https://img.shields.io/badge/Spoonacular_API-FF6F00?style=for-the-badge&logo=spoonacular&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![PropTypes](https://img.shields.io/badge/PropTypes-FF69B4?style=for-the-badge&logo=react&logoColor=white)
+![UUID](https://img.shields.io/badge/UUID-000000?style=for-the-badge&logo=uuid&logoColor=white)
+
+[Live Preview on render](https://recipe-react-app-va6l.onrender.com) | [GitHub Repository](https://github.com/Rashy-hub/Recipe-React-App)
+
+<img src="assets/recipe-app.png" alt="Recipe React App" width="600" style="display: block; margin: 20px auto;">
 
 ---
 
-#### **Recipe React App**
-  A recipe app that uses Appwrite BaaS as a backend. This project shows my full-stack skills, integrating React with Appwrite for backend functionalities like data storage and authentication.
+#### **WatchList - ASP.NET Core MVC**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=Appwrite&logoColor=black)  
-[Live Demo](https://recipe-react-app-va6l.onrender.com) | [GitHub Repository](https://github.com/Rashy-hub/Recipe-React-App)
+This is an **ASP.NET Core MVC** application, initially created using **Visual Studio 2022** with the default project template, including **ASP.NET Identity** for user authentication, **Bootstrap 5** for responsive design, and **Entity Framework Core** for database management.  
+The project began by following the OpenClassrooms ASP.NET course, but I’ve expanded on it with additional features and extra content, such as a UML design.  
+In summary, it’s a simple system for listing and rating movies you've seen or own. The application uses a **SQL Server** (localdb) to store the information you enter, including the rating (from 1 to 5 stars) you assign to each film. You can search, view, and sort your movie list using a variety of criteria.  
+**Work is still in progress** 🚧
 
-<img src="assets/recipe-app.png" alt="Recipe React App" width="600" style="display: block; margin: 20px auto;">
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![ASP.NET Identity](https://img.shields.io/badge/ASP.NET_Identity-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+[No live Demo (WIP)](#) | [GitHub MVC Repository](https://github.com/Rashy-hub/WatchList)
+
+<img src="assets/watchlist.png" alt="Work in progress" width="600" style="display: block; margin: 20px auto;">
 
 ---
 
