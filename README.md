@@ -7,9 +7,10 @@
 <h2 align="center">🎤 About Me - ⚠ Page Still Under Construction ⚠</h2>
 <h3 align="center">👨‍💻 Web Developer | JavaScript Enthusiast | Versatile Coder 🚀 Always ready to adapt and deliver.</h3>
 
-- 🔭 I’m currently working on a **Next.js** version of my [Portfolio](https://www.underconstructionpage.com/).<br>
-- 🌱 I’m currently learning **.NET/C#**, **ASP.NET**, and **Kubernetes**.<br>
-- 🎨 I work on frontend projects too, but I’ll be honest—**I’m not a designer**! Still, I always do my best to create clean user interfaces.<br>
+- 🔭 I’m currently developing my first AI-driven **SaaS** project, **TaskTracrk** (the name is a placeholder until I finalize the domain). It’s a **to-do list app** that leverages AI to predict user behavior and analyze data for smarter task recommendations.<br>  
+- 🌱 I’m actively learning **AdonisJS**, **Python/Django**, and **Docker Compose/Swarm**.<br>  
+- 🎨 While I work on frontend projects as well, I’ll be honest—**design isn’t my strong suit**. That said, I always strive to deliver clean and user-friendly interfaces.<br>  
+
 
 <br>
 
@@ -41,7 +42,7 @@
   <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=Appwrite&logoColor=black">
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 </div>
@@ -59,9 +60,9 @@
 
 <h2 align="center">🎓 My Current Learning Focus 🎓</h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"> 
+ <img src="https://img.shields.io/badge/AdonisJS-220052?style=for-the-badge&logo=adonisjs&logoColor=white">
+ <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+ <img src="https://img.shields.io/badge/Wagtail-43B02A?style=for-the-badge&logo=wagtail&logoColor=white">
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -245,76 +246,33 @@ My first attempt to create an original portfolio using only HTML, CSS, and JavaS
 
 <hr>
 
-### **Static Sites integration**
+### **Static Site Integration Design**
 
-- [Ipsum News](https://github.com/Rashy-hub/Mini-Projects/tree/main/Frontend%20mini%20projects/HTML%26CSS%20projects/Ipsum%20News)
-- [Pixel Perfect](https://github.com/Rashy-hub/Mini-Projects/tree/main/Frontend%20mini%20projects/HTML%26CSS%20projects/PixelPerfect)
-- [Responsive Blog](https://github.com/Rashy-hub/Mini-Projects/tree/main/Frontend%20mini%20projects/HTML%26CSS%20projects/Responsive%20WebPage%20-%20Final)
+- [Ipsum News](https://github.com/Rashy-hub/Mini-Projects/tree/main/Frontend%20mini%20projects/HTML%26CSS%20projects/Ipsum%20News)  
+- [Responsive Blog](https://github.com/Rashy-hub/Mini-Projects/tree/main/Frontend%20mini%20projects/HTML%26CSS%20projects/Responsive%20WebPage%20-%20Final)  
 
-Ces exercices d'intégration de designs Figma en pages statiques HTML/CSS démontrent mon souci du détail et ma capacité à traduire des maquettes de design en pages web fonctionnelles.  
+These exercises of integrating Figma designs into static HTML/CSS pages demonstrate my attention to detail and ability to translate design mockups into functional web pages.  
 
-- [Ipsum News](assets/ipsum-news.png)  
-- [Pixel Perfect](assets/pixel-perfect.png)  
-- [Responsive Blog](assets/responsive-blog.png)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
-
-### React Major Exercices
-
-#### **Weather App**
-
-Une application React qui consomme une API météo en utilisant Redux Toolkit. Démontre une gestion d'état efficace et une interface utilisateur réactive.  
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-[GitHub Repository](https://github.com/Rashy-hub/Weather-App)
-
-<img src="assets/weather-app.png" alt="Weather App" width="600" style="display: block; margin: 20px auto;">
+<img src="assets/ipsum-news.png" alt="ipsum news" width="600" style="display: inline; margin-top:10px;">
+<img src="assets/responsive-blog.png" alt="responsive Blog" width="600" style="display: inline;">
 
 ---
 
-#### **Emoji Search**
-Une application React simple pour rechercher des emojis en utilisant des données JSON locales. Met l'accent sur une gestion d'état efficace et une interface utilisateur réactive.  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
-[Live Demo](https://emojisearch-db.onrender.com) | [GitHub Repository](https://github.com/Rashy-hub/emojiSearch-reactdemo)
+<hr>
 
-<img src="assets/emoji-search.png" alt="Emoji Search" width="600" style="display: block; margin: 20px auto;">
+### <h3 id="utility-learning">🧩 Utility & Learning Projects</h3> 
 
----
+During my free time coding, I realized the need for customized sandboxes, cheatsheets, utilities, and tools. Here are some of the projects I created to meet those needs:
 
-#### **Multi-Step Form**
-Un formulaire multi-étapes construit avec React, mettant en avant une interface utilisateur dynamique avec des transitions fluides et une gestion des données efficace. Intègre EmailJS pour les services d'email externes.  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![EmailJS](https://img.shields.io/badge/EmailJS-FF0000?style=for-the-badge&logo=emailjs&logoColor=white)  
-[Live Demo](https://multistepform-ap6d.onrender.com) | [GitHub Repository](https://github.com/Rashy-hub/MultiStepForm)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
 
-<img src="assets/multistepform.png" alt="Multi-Step Form" width="600" style="display: block; margin: 20px auto;">
+- [Data&Algo-Sandbox](https://github.com/Rashy-hub/Algorithms-and-Data-Structures-Cheatsheets-Sandbox)
 
----
-
-#### **StopWatch**
-Un chronomètre basé sur React avec une fonctionnalité de sauvegarde des tours. Ce projet démontre ma capacité à construire des applications basées sur le temps avec une gestion d'état complexe.  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
-[Live Demo](https://stopwatch-bd8y.onrender.com) | [GitHub Repository](https://github.com/Rashy-hub/StopWatch)
-
-<img src="assets/stopwatch.png" alt="StopWatch" width="600" style="display: block; margin: 20px auto;">
-
----
-
-#### **Markdown Reader**
-Une application React qui rend le contenu Markdown, démontrant ma capacité à travailler avec des fichiers Markdown dans un environnement React.  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)  
-[Live Demo](https://markdown-reader.onrender.com) | [GitHub Repository](https://github.com/Rashy-hub/MarkDown-Reader)
-
-<img src="assets/markdown-reader.png" alt="Markdown Reader" width="600" style="display: block; margin: 20px auto;">
-
-
-### 🧩 Utility & Learning Projects
+<img src="assets/utility-data-algo.png" alt="Portfolio Responsive Design" width="600" style="display: block; margin: 20px auto;">
 
 ---
 
