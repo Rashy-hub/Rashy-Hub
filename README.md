@@ -98,6 +98,33 @@
 
 ---
 
+#### **TaskTrackr**
+
+A full-stack Todo List application built with Node.js, Express.js, and MongoDB as my first SaaS ; featuring user authentication with JWT and Passeport, and complete CRUD operations for managing tasks.
+Tasks are organized using the Pomodoro technique to boost focus and productivity. Activities are categorized (e.g., Work, Health, Personal Development), and stats are analyzed to provide AI-driven predictions and suggestions, like "You seem most productive in the mornings; plan critical tasks then!" Tasks can be added via voice commands using the Web Speech API. Larger goals, called "Topics" (e.g., "Fitness" or "Learn React"), group related tasks, with each card displaying its progress. Autocomplete suggestions help with task names, offering frequent or similar options for quicker input.  
+
+**Work is still in progress** 🚧 
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white)
+![Yup](https://img.shields.io/badge/Yup-0A3D44?style=for-the-badge&logo=yup&logoColor=white)
+![Passport.js](https://img.shields.io/badge/Passport.js-004D2C?style=for-the-badge&logo=passport&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+
+[Website Link ](https://www.tasktrackr-tool.yagoubi-rachid.me/) | [GitHub Front Repository](https://github.com/Rashy-hub/TaskTrackr-React-Front) | [GitHub Back Repository](https://github.com/Rashy-hub/TaskTrackr)
+
+<img src="assets/todo-app.png" alt="Todo List Demo" width="600" style="display: inline; margin-top:10px;">
+<img src="assets/tasktrackr-landing.png" alt="responsive Blog" width="600" style="display: inline;">
+
+---
+
 #### **JobTrackr**
 A job tracking app built with HTML, SASS, and vanilla JavaScript to manage job applications. This project showcases my front-end skills, including the use of animations, modal management, and a card-based UI for a smooth user experience. The backend integrates with a REST API for data, using JWT for authentication and MongoDB for the database (hosted on the cloud).
 
@@ -114,24 +141,6 @@ A job tracking app built with HTML, SASS, and vanilla JavaScript to manage job a
 [Live Preview on render](https://jobtrackr-6b0t.onrender.com) | [GitHub Backend Repository](https://github.com/Rashy-hub/JobTrackr) | [GitHub Frontend Repository](https://github.com/Rashy-hub/JobTrackr-Front)
 
 <img src="assets/jobtracker.png" alt="JobTrackr" width="600" style="display: block; margin: 20px auto;">
-
----
-
-#### **TaskTrackr**
-
-A full-stack Todo List application built with Node.js, Express.js, and MongoDB, featuring user authentication with JWT, and complete CRUD operations for managing tasks. This project showcases secure user management, data persistence with MongoDB, and a clean, responsive frontend served from the backend. It highlights my ability to build robust backend services and integrate them with a dynamic frontend.
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-[Live Preview on render](https://todo-list-demo.onrender.com) | [GitHub FullStack Repository](https://github.com/Rashy-hub/todo-list-demo)
-
-<img src="assets/todo-app.png" alt="Todo List Demo" width="600" style="display: block; margin: 20px auto;">
 
 ---
 
