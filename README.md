@@ -78,8 +78,6 @@
 
 <h2 align="center">🌟 Showcase of my main projects and major exercices🌟</h2>
 
-⚠️ Note: While most of these projects began as inspirations from my BeCode bootcamp or online YouTube videos (primarily from Dave Gray), I made it a priority to personalize each one and add extra features, ensuring my unique touch. Most of these projects are still in progress and will continue to evolve toward perfection. 🚧✨<br>
-
 | **Categories: Click the badges below to navigate to specific project sections.**                                                                                                                                                                                                                                   |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [![Full-Stack Projects](https://img.shields.io/badge/Full--Stack%20Projects-blue?style=for-the-badge)](#full-projects) [![Frontend UI](https://img.shields.io/badge/Frontend%20UI-green?style=for-the-badge)](#frontend-ui) [![Backend APIs](https://img.shields.io/badge/Backend%20APIs-yellow?style=for-the-badge)](#backend-apis) [![Utility & Learning Projects](https://img.shields.io/badge/Utility%20%26%20Learning%20Projects-lightblue?style=for-the-badge)](#utility-learning) |
