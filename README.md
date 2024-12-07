@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/rachid-yagoubi-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://yagoubi-rachid-dev.onrender.com/" target="_blank">
+  <a href="https://portfolio-yagoubi-rachid-react.onrender.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
 </div>
