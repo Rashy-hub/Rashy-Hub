@@ -192,45 +192,6 @@ In summary, it’s a simple system for listing and rating movies you've seen or 
 
 ---
 
-#### **KriticArt-FullStack**
-
-KriticArt is a MERN stack project focused on showcasing a powerful and scalable back-end API. This is the second version of the project, refactored into TypeScript to improve type safety and maintainability. The API is also documented with Swagger, enhancing usability for developers. KriticArt is a collaborative photo-sharing and review platform built using the MERN stack. Users can create accounts, upload photos from their devices or import them via third-party services. The platform allows users to comment on and rate photos, create personal galleries, and mark favorites. The homepage features a curated selection of random or thematic images, fetched from public APIs. The back-end, implemented in TypeScript, is designed for scalability and includes advanced functionalities like authentication, media uploads, and external API integrations.
-**Work is still in progress** 🚧 
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![Multer](https://img.shields.io/badge/Multer-4A4A55?style=for-the-badge&logo=multer&logoColor=white)
-
-[No live preview (WIP) ](#) | [GitHub  FullStack Repository](https://github.com/Rashy-hub/KriticArt-FullStack)
-
-<img src="assets/workinprogress.jpg" alt="KriticArt FullStack" width="600" style="display: block; margin: 20px auto;">
-
----
-
-#### **TechNotes**
-
-TechNotes is an API built with Express.js, enhanced based on a tutorial by Dave Gray to meet specific needs. This technical note management application features employee login, note assignment, ticket tracking, and user management with defined roles. The system allows employees to manage their assigned notes while providing managers and admins with broader access to edit and delete notes as needed.  
-**Work is still in progress** 🚧
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)    
-
-[No live preview (WIP) ](#) | [GitHub Backend Repository](https://github.com/Rashy-hub/TechNotes) | [GitHub Front Repository](https://github.com/Rashy-hub/TechNotes-Client)
-
-<img src="assets/workinprogress.jpg" alt="TechNotes API" width="600" style="display: block; margin: 20px auto;">
-
-<hr>
-
----
-
 ### <h3 id="frontend-ui">🎨 Frontend Projects</h3> 
 
 ---
