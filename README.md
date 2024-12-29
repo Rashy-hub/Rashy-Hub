@@ -8,7 +8,7 @@
 <h3 align="center">👨‍💻 Web Developer | JavaScript Enthusiast | Versatile Coder 🚀 Always ready to adapt and deliver.</h3>
 
 - 🔭 I’m currently developing my first AI-driven **SaaS** project, **TaskTracrk** (the name is a placeholder until I finalize the domain). It’s a **to-do list app** that leverages AI to predict user behavior and analyze data for smarter task recommendations.<br>  
-- 🌱 I’m actively learning **AdonisJS**, **Python/Django**, and **Docker Compose/Swarm**.<br>  
+- 🌱 I’m actively learning **C# / ASP.NET CORE**, **Python/Django**.<br>  
 - 🎨 While I work on frontend projects as well, I’ll be honest—**design isn’t my strong suit**. That said, I always strive to deliver clean and user-friendly interfaces.<br>  
 
 
@@ -60,10 +60,11 @@
 
 <h2 align="center">🎓 My Current Learning Focus 🎓</h2>
 <div align="center">
- <img src="https://img.shields.io/badge/AdonisJS-220052?style=for-the-badge&logo=adonisjs&logoColor=white">
+ <img src="https://img.shields.io/badge/.NET%20C%23-512BD4?style=for-the-badge&logo=.net&logoColor=white">
+ <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=aspnetcore&logoColor=white">
  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
- <img src="https://img.shields.io/badge/Wagtail-43B02A?style=for-the-badge&logo=wagtail&logoColor=white">
 </div>
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
