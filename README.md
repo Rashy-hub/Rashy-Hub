@@ -144,21 +144,30 @@ A job tracking app built with HTML, SASS, and vanilla JavaScript to manage job a
 
 #### **Recipe Dream**
 
-A recipe app a web application built with **React** that allows users to explore, create, and manage their favorite recipes. This app leverages the Appwrite backend (BAAS) for user authentication and data management, and integrates the Spoonacular Public API to fetch a wide variety of recipes and culinary information.
+A recipe app is a web application built with React / TypeScript that enables users to explore, create, and manage their favorite recipes. The app features a custom backend for user authentication and data management, replacing Appwrite, and integrates the Spoonacular Public API to provide access to a diverse collection of recipes and culinary information. Logged-in users can add recipes from the Explorer to their "My Recipes" dashboard
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=Appwrite&logoColor=black)
 ![Spoonacular API](https://img.shields.io/badge/Spoonacular_API-FF6F00?style=for-the-badge&logo=spoonacular&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![PropTypes](https://img.shields.io/badge/PropTypes-FF69B4?style=for-the-badge&logo=react&logoColor=white)
-![UUID](https://img.shields.io/badge/UUID-000000?style=for-the-badge&logo=uuid&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-18181B?style=for-the-badge&logo=zustand&logoColor=white)
+![React Icons](https://img.shields.io/badge/React_Icons-E91E63?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-FEB724?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Winston](https://img.shields.io/badge/Winston-333333?style=for-the-badge&logo=logstash&logoColor=white)
+![Yup](https://img.shields.io/badge/Yup-FFA500?style=for-the-badge&logo=yup&logoColor=white)
 
-[Live Preview on render](https://recipe-react-app-va6l.onrender.com) | [GitHub Repository](https://github.com/Rashy-hub/Recipe-React-App)
 
-<img src="assets/recipe-app.png" alt="Recipe React App" width="600" style="display: block; margin: 20px auto;">
+[Live Preview on render](www.recipe-dream.yagoubi-rachid.me/) |  [GitHub Backend Repository](https://github.com/Rashy-hub/Recipie-Dream-Express-Backend) | [GitHub Frontend Repository](https://github.com/Rashy-hub/Recipe-Dream---React)
+
+<img src="assets/recipe-dream-react.png" alt="Recipe React App" width="600" style="display: block; margin: 20px auto;">
 
 ---
 
