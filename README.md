@@ -118,7 +118,8 @@ Tasks are organized using the Pomodoro technique to boost focus and productivity
 
 [Website Link ](https://www.tasktrackr-tool.yagoubi-rachid.me/) | [GitHub Front Repository](https://github.com/Rashy-hub/TaskTrackr-React-Front) | [GitHub Back Repository](https://github.com/Rashy-hub/TaskTrackr)
 
-<img src="assets/todo-app.png" alt="Todo List Demo" width="600" style="display: inline; margin-top:10px;">
+<img src="assets/tasktrackr-demo1.png" alt="Todo List Demo" width="600" style="display: inline; margin-top:10px;">
+<img src="assets/tasktrackr-demo2.png" alt="Todo List Demo" width="600" style="display: inline; margin-top:10px;">
 <img src="assets/tasktrackr-landing.png" alt="responsive Blog" width="600" style="display: inline;">
 
 ---
