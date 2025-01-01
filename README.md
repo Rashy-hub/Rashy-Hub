@@ -167,7 +167,7 @@ A recipe app is a web application built with React / TypeScript that enables use
 ![Yup](https://img.shields.io/badge/Yup-FFA500?style=for-the-badge&logo=yup&logoColor=white)
 
 
-[Live Preview on render](www.recipe-dream.yagoubi-rachid.me/) |  [GitHub Backend Repository](https://github.com/Rashy-hub/Recipie-Dream-Express-Backend) | [GitHub Frontend Repository](https://github.com/Rashy-hub/Recipe-Dream---React)
+[Website Link](https://www.recipe-dream.yagoubi-rachid.me/) |  [GitHub Backend Repository](https://github.com/Rashy-hub/Recipie-Dream-Express-Backend) | [GitHub Frontend Repository](https://github.com/Rashy-hub/Recipe-Dream---React)
 
 <img src="assets/recipe-dream-react.png" alt="Recipe React App" width="600" style="display: block; margin: 20px auto;">
 
