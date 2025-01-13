@@ -4,11 +4,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=600&color=4E5C97&vCenter=true&width=450&height=80&lines=Hi+there!%F0%9F%91%8B+;I'm+Rachid+Yagoubi+!%F0%9F%91%8A;I'm+a+web+Developer%F0%9F%9A%80!" />
 </h1>
 
-<h2 align="center">🎤 About Me - ⚠ Page Still Under Construction ⚠</h2>
+<h2 align="center">🎤 About Me </h2>
 <h3 align="center">👨‍💻 Web Developer | JavaScript Enthusiast | Versatile Coder 🚀 Always ready to adapt and deliver.</h3>
+<p align="center">
+  <strong>🔧 Former Electronics Engineer → Now a Web Developer!</strong><br>
+  I'm transitioning from a career in embedded systems to web development, bringing a unique blend of problem-solving skills and technical expertise.
+</p>
 
 - 🔭 I’m currently developing my first AI-driven **SaaS** project, **TaskTracrk** (the name is a placeholder until I finalize the domain). It’s a **to-do list app** that leverages AI to predict user behavior and analyze data for smarter task recommendations.<br>  
-- 🌱 I’m actively learning **C# / ASP.NET CORE**, **Python/Django**.<br>  
+- 🌱 I’m actively learning **Angular**.<br>  
 - 🎨 While I work on frontend projects as well, I’ll be honest—**design isn’t my strong suit**. That said, I always strive to deliver clean and user-friendly interfaces.<br>  
 
 
@@ -31,6 +35,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -41,9 +46,8 @@
   <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=Appwrite&logoColor=black">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 </div>
 
@@ -53,17 +57,17 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
 </div>
 
 <h2 align="center">🎓 My Current Learning Focus 🎓</h2>
 <div align="center">
- <img src="https://img.shields.io/badge/.NET%20C%23-512BD4?style=for-the-badge&logo=.net&logoColor=white">
- <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=aspnetcore&logoColor=white">
- <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
 </div>
+
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -198,7 +202,7 @@ In summary, it’s a simple system for listing and rating movies you've seen or 
 
 #### **BeMovies**
 
-A movie presentation application built with HTML/CSS and **Swiper.js**. This project showcases my front-end skills with a simple yet effective style and interactive carousels.
+A movie presentation application built with HTML/CSS and **Swiper.js**. This project demonstrates my front-end skills through a clean, efficient design featuring interactive carousels. The app incorporates **infinite scrolling** and uses Swiper's lazy loading for optimized image performance, all while adhering to best practices for a smooth user experience.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -229,14 +233,18 @@ My first attempt to create an original portfolio using only HTML, CSS, and JavaS
 
 - [Ipsum News](https://github.com/Rashy-hub/Mini-Projects/tree/main/Frontend%20mini%20projects/HTML%26CSS%20projects/Ipsum%20News)  
 - [Responsive Blog](https://github.com/Rashy-hub/Mini-Projects/tree/main/Frontend%20mini%20projects/HTML%26CSS%20projects/Responsive%20WebPage%20-%20Final)  
+- [Ultimate Sass Project](https://github.com/Rashy-hub/Ultimate-Sass-project)
 
 These exercises of integrating Figma designs into static HTML/CSS pages demonstrate my attention to detail and ability to translate design mockups into functional web pages.  
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
+<img src="assets/ultimate.png" alt="responsive Blog" width="600" style="display: inline;">
 <img src="assets/ipsum-news.png" alt="ipsum news" width="600" style="display: inline; margin-top:10px;">
 <img src="assets/responsive-blog.png" alt="responsive Blog" width="600" style="display: inline;">
+
 
 ---
 
