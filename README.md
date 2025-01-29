@@ -200,7 +200,30 @@ In summary, it’s a simple system for listing and rating movies you've seen or 
 
 ---
 
+#### **PokeCardGame**
+
+My first Angular project - a Pokémon-themed card game that helped me solidify core Angular concepts. Features user authentication, card management with search/filters, and interactive forms. Integrated with a custom Django backend API deployed on Render.
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Angular Material](https://img.shields.io/badge/Angular_Material-3F51B5?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+**Key Features:**
+- JWT authentication with interceptors & guards
+- Reactive forms for card creation/editing
+- Lazy loading for optimized performance
+- Animations and Angular Material UI components
+
+[Preview on render](https://poke-cardgame-ng.onrender.com/) | [GitHub Repository](hhttps://github.com/Rashy-hub/poke-cardgame-ng) | [Backend API Docs](https://playing-cards-backend.onrender.com/api/swagger-ui/)
+
+<img src="assets/pokemon-card.png" alt="PokeCardGame Demo" width="600" style="display: block; margin: 20px auto;">
+
+---
+
 #### **BeMovies**
+
 
 A movie presentation application built with HTML/CSS and **Swiper.js**. This project demonstrates my front-end skills through a clean, efficient design featuring interactive carousels. The app incorporates **infinite scrolling** and uses Swiper's lazy loading for optimized image performance, all while adhering to best practices for a smooth user experience.
 
