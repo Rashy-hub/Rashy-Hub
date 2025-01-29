@@ -216,7 +216,7 @@ My first Angular project - a Pokémon-themed card game that helped me solidify c
 - Lazy loading for optimized performance
 - Animations and Angular Material UI components
 
-[Preview on render](https://poke-cardgame-ng.onrender.com/) | [GitHub Repository](hhttps://github.com/Rashy-hub/poke-cardgame-ng) | [Backend API Docs](https://playing-cards-backend.onrender.com/api/swagger-ui/)
+[Preview on render](https://poke-cardgame-ng.onrender.com/) | [GitHub Repository](https://github.com/Rashy-hub/poke-cardgame-ng) | [Backend API Docs](https://playing-cards-backend.onrender.com/api/swagger-ui/)
 
 <img src="assets/pokemon-card.png" alt="PokeCardGame Demo" width="600" style="display: block; margin: 20px auto;">
 
